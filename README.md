@@ -1,4 +1,4 @@
-# Email Phishing and Header Analysis
+# Task -2:  Email Phishing and Header Analysis
 
 ## Objective
 To identify phishing characteristics in suspicious emails and analyze email headers to detect spoofing, failed authentication, and malicious intent.
