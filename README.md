@@ -24,3 +24,5 @@ To identify phishing characteristics in suspicious emails and analyze email head
 ## Conclusion
 Phishing emails commonly use spoofed domains, deceptive content, and fail basic authentication checks. Header analysis is a critical skill in verifying email legitimacy and detecting fraud.
 
+## Result
+The phishing scams and the results of header analysis is uploaded as a file in the repository
